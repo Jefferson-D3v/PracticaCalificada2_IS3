@@ -1,0 +1,24 @@
+{
+  "name": "practicacalificada2_is3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jefferson-D3v/PracticaCalificada2_IS3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jefferson-D3v/PracticaCalificada2_IS3/issues"
+  },
+  "homepage": "https://github.com/Jefferson-D3v/PracticaCalificada2_IS3#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
